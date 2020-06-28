@@ -1,6 +1,9 @@
 #-------------------------------------------------------------------------------------------------------------
-# Copyright (c) Microsoft Corporation. All rights reserved.
-# Licensed under the MIT License. See https://go.microsoft.com/fwlink/?linkid=2090316 for license information.
+# Copyright (c) Microsoft Corporation and Osamu Koga.
+# Original license statement by Microsoft Corporation:
+#   Licensed under the MIT License. See https://go.microsoft.com/fwlink/?linkid=2090316 for license information.
+#
+# See LICENCE file on the repository root for specific license information for this repository.
 #-------------------------------------------------------------------------------------------------------------
 
 FROM rust:1.44-buster
